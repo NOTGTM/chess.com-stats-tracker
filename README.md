@@ -1,4 +1,4 @@
-placeholder for image!
+[Download Installer](https://example.com/path/to/file)
 
 ###
 

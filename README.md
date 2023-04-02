@@ -1,4 +1,4 @@
-[Download Installer](https://example.com/path/to/file)
+# [Download Installer](https://example.com/path/to/file)
 
 ###
 

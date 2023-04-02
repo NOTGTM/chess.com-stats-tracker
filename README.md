@@ -1,4 +1,4 @@
-# [Download Installer](https://example.com/path/to/file)
+ # 😜 [CLICK HERE TO DOWNLOAD INSTALLER](https://example.com/path/to/file)
 
 ###
 
@@ -16,7 +16,7 @@
 ###
 
 <h3>What this project is?</h3>
-This is simple stat tracker that allows you to track you progress when auto queueing on <a href="https://github.com/BotSolver/BetterMint">BetterMint</a>!
+This is simple stat tracker that allows you to track you progress when auto queueing on [chess.com](chess.com)!
 <h3>Is it safe</h3>
 Yes it is, It uses proxy so you are undecetable!
 
